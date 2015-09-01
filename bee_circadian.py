@@ -1,3 +1,9 @@
+############################
+# Author: Nicholas Palermo
+# Date: sept, 2016
+# intended for use with an arduino and ir sensors.
+###########################
+
 #!/usr/bin/python
 
 import serial
